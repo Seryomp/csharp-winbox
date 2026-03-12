@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../ClassLibrary2/mesContrats.csproj" />
+  <Project Path="../cslMesComtrats/cslMesComtrats.csproj" Id="2be148d2-e81a-4ffc-b27e-844848943ead" />
+  <Project Path="MesContratsVehicules/MesContratsVehicules.csproj" Id="39dc6556-2119-49b7-836e-756afb174ee2" />
+</Solution>
